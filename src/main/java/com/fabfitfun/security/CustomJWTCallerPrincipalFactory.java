@@ -1,7 +1,5 @@
 package com.fabfitfun.security;
 
-import io.smallrye.jwt.auth.principal.DefaultJWTCallerPrincipal;
-import io.smallrye.jwt.auth.principal.DefaultJWTParser;
 import io.smallrye.jwt.auth.principal.JWTAuthContextInfo;
 import io.smallrye.jwt.auth.principal.JWTCallerPrincipal;
 import io.smallrye.jwt.auth.principal.JWTCallerPrincipalFactory;
